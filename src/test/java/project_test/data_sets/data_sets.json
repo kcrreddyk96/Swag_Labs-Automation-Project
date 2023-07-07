@@ -1,0 +1,42 @@
+[
+  {
+    "user_Name" : "standard_user",
+    "Password" : "secret_sauce",
+    "productName" : "Sauce Labs Onesie",
+    "F_name" : "Standard",
+    "L_name" : "tester",
+    "zip_Code" : "41500"
+  },
+  {
+    "user_Name" : "standard_user",
+    "Password" : "secret_RamTester",
+    "productName" : "Sauce Labs Onesie",
+    "F_name" : "Ram",
+    "L_name" : "tester",
+    "zip_Code" : "41500"
+  },
+  {
+    "user_Name" : "locked_out_user",
+    "Password" : "secret_sauce",
+    "productName" : "Sauce Labs Backpack",
+    "F_name" : "Jain",
+    "L_name" : "tester",
+    "zip_Code" : "41500"
+  },
+  {
+    "user_Name" : "problem_user",
+    "Password" : "secret_sauce",
+    "productName" : "Sauce Labs Bike Light",
+    "F_name" : "Crazy",
+    "L_name" : "tester",
+    "zip_Code" : "41500"
+  },
+  {
+    "user_Name" : "performance_glitch_user",
+    "Password" : "secret_sauce",
+    "productName" : "Sauce Labs Backpack",
+    "F_name" : "Jim",
+    "L_name" : "tester",
+    "zip_Code" : "41500"
+  }
+]

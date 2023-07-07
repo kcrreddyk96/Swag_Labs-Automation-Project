@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Web App Swag Labs Automation Testing Suite">
+    <listeners>
+        <listener class-name="project_test.test_components.testNG_Listeners"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="Swag Labs Testing Project">
+        <groups>
+            <run>
+                <include name="login_Test"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="project_test.test_cases.negative_Testing"/>
+            <class name="project_test.test_cases.multiple_User_Login_Validation"/>
+        </classes>
+    </test>
+</suite>
